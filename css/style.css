@@ -1,0 +1,15 @@
+html, body {
+  font-family: sans-serif;
+  padding: 10px 30px;
+}
+
+#color-background {
+  padding: 100px;
+  background: #ff0000;
+  color: white;
+  font-size: 36px;
+}
+
+#color-picker {
+  margin: 10px;
+}

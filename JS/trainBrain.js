@@ -7,4 +7,6 @@ network.train([
   { input: { r: 0.31, g: 0.35, b: 0.41 }, output: { dark: 1 } },
   { input: { r: 1, g: 0.99, b: 0}, output: { light: 1 } },
   { input: { r: 1, g: 0.42, b: 0.52}, output: { dark: 1 } },
+  { input: { r: 0, g: 0.25, b: 1}, output: { light: 1 } },
+  { input: { r: 0, g: 0.45, b: 1}, output: { light: 1 } },
 ])
